@@ -10,7 +10,7 @@ export default function PlayerList() {
                 <p1 className = "name-text"> DebuggingDuck </p1>
             </div>
             <div className='awesomechat-div'>
-                <div className='chats-div'>
+                <div className='chats-div'> 
                 </div>
                 <div className='playerstatus-div'>
                 </div>
