@@ -36,7 +36,6 @@ export default function Navbar(){
                         <a href = "http://google.com/"> Server Name 8 </a>
                     </div>
                 </div>
-
             </nav>
         </div>
     )
